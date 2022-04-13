@@ -8,8 +8,8 @@
 * Downdog yoga apps are free (forever) to students and educators [DownDog](https://www.downdogapp.com/)
 
 ## Productivity Students Tools
-* [College info Geek Thomas Frank](https://collegeinfogeek.com/resources/)
+* [College info Geek Thomas Frank](https://collegeinfogeek.com/resources/) This lists almost complete sets of tools required for students complete success journey
 
 
 ## Student Discounts
-* [Student Rate](https://www.studentrate.com/)
+* [Student Rate](https://www.studentrate.com/) Discounts that students gets and you don't want to miss it, consider before buying.
