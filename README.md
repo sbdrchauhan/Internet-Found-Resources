@@ -9,6 +9,7 @@
 
 ## Productivity Students Tools
 * [College info Geek Thomas Frank](https://collegeinfogeek.com/resources/) This lists almost complete sets of tools required for students complete success journey
+* [Go Conqr](https://www.goconqr.com/en-US) Gives variety of tools to aid students learning - notes, flashcards, mindmaps, flow charts, etc.
 
 
 ## Student Discounts
