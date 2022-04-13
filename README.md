@@ -9,3 +9,7 @@
 
 ## Productivity Students Tools
 * [College info Geek Thomas Frank](https://collegeinfogeek.com/resources/)
+
+
+## Student Discounts
+* [Student Rate](https://www.studentrate.com/)
