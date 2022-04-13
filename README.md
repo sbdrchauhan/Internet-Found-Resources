@@ -1,5 +1,5 @@
 ## Programming/coding/C++/ROOT/
-* [Julie Roche OU page](https://inpp.ohio.edu/~rochej/group_page/tips.html)
+* [Julie Roche OU page](https://inpp.ohio.edu/~rochej/group_page/tips.html) Has resource for ROOT, and others.
 * [CODECOGS](https://latex.codecogs.com/) can be used to generate latex equations and then save it as image or url link to generate and or use in any other platforms
 * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor) also does similar thing as above ones
 
