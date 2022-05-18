@@ -4,7 +4,7 @@
 * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor) also does similar thing as above ones
 
 ## Physics/Particle Physics/High-Energy
-* [Physics of **LHC**](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/1.home)
+* [Physics of **LHC**](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/1.home) Describes PHYSICS involve in LHC in High-School level
 
 ## Health/Yoga/Physical Excercise/Mental Health
 * [DownDog](https://www.downdogapp.com/) Downdog yoga apps are free (forever) to students and educators 
@@ -14,7 +14,7 @@
 * [Go Conqr](https://www.goconqr.com/en-US) Gives variety of tools to aid students learning - notes, flashcards, mindmaps, flow charts, etc.
 * [Khan Academy](https://www.khanacademy.org/) Choose your fav. subjects you want to learn and do it!
 * [Overleaf](https://www.overleaf.com/) Overleaf page allows you to write your thesis in web-version
-* [CheatSheet of almost all the Languages](http://www.cheat-sheets.org/#CPP)
+* [CheatSheet](http://www.cheat-sheets.org/#CPP) Includes cheat-sheets of almost all languages
 
 
 ## Student Discounts
