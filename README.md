@@ -15,6 +15,7 @@
 * [Go Conqr](https://www.goconqr.com/en-US) Gives variety of tools to aid students learning - notes, flashcards, mindmaps, flow charts, etc.
 * [Khan Academy](https://www.khanacademy.org/) Choose your fav. subjects you want to learn and do it!
 * [Overleaf](https://www.overleaf.com/) Overleaf page allows you to write your thesis in web-version
+* [**Public Libraries**](https://www.myacpl.org/) - a very good source to learn many things (for free)
 
 
 
