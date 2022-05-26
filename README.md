@@ -16,6 +16,12 @@
 * [Khan Academy](https://www.khanacademy.org/) Choose your fav. subjects you want to learn and do it!
 * [Overleaf](https://www.overleaf.com/) Overleaf page allows you to write your thesis in web-version
 
+## People to follow from Social Media:
+* [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder) Theoritical Physicist from German
+* [Ali Abdal](https://www.youtube.com/c/aliabdaal) Content creater for the productivity
+* [Thomas Frank](https://www.youtube.com/c/Thomasfrank) Same as above
+* [Science girl from twitter](https://twitter.com/gunsnrosesgirl3) she shares lots of interesting sciency things
+
 ## General
 * [Student Rate](https://www.studentrate.com/) Discounts that students gets and you don't want to miss it, consider before buying.
 * [**Public Libraries**](https://www.myacpl.org/) - a very good source to learn many things (for free )
