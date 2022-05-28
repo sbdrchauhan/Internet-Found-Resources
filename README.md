@@ -18,7 +18,7 @@
 
 ## People to follow from Social Media:
 * [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder) Theoritical Physicist from German
-* [Ali Abdal](https://www.youtube.com/c/aliabdaal) Content creater for the productivity
+* [Ali Abdaal](https://www.youtube.com/c/aliabdaal) Content creater for the productivity
 * [Thomas Frank](https://www.youtube.com/c/Thomasfrank) Same as above
 * [Science girl from twitter](https://twitter.com/gunsnrosesgirl3) she shares lots of interesting sciency things
 
