@@ -21,6 +21,7 @@
 * [Ali Abdaal](https://www.youtube.com/c/aliabdaal) Content creater for the productivity
 * [Thomas Frank](https://www.youtube.com/c/Thomasfrank) Same as above
 * [Science girl from twitter](https://twitter.com/gunsnrosesgirl3) she shares lots of interesting sciency things
+* [Rainmaker twitter](https://twitter.com/Rainmaker1973) same as above
 
 ## General
 * [Student Rate](https://www.studentrate.com/) Discounts that students gets and you don't want to miss it, consider before buying.
