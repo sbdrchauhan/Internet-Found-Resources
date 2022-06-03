@@ -4,6 +4,7 @@
 * [SciWeavers](http://www.sciweavers.org/free-online-latex-equation-editor) also does similar thing as above ones
 * [CheatSheet](http://www.cheat-sheets.org/#CPP) Includes cheat-sheets of almost all languages
 * [HSF Software Training Center](https://hepsoftwarefoundation.org/training/curriculum.html) lots of tutorials for hep
+* [Advance Bash-Scripting Tutorial](https://tldp.org/LDP/abs/html/index.html)
 
 ## Physics/Particle Physics/High-Energy
 * [Physics of **LHC**](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/1.home) Describes PHYSICS involve in LHC in High-School level
