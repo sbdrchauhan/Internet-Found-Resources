@@ -6,9 +6,10 @@
 * [HSF Software Training Center](https://hepsoftwarefoundation.org/training/curriculum.html) lots of tutorials for hep
 * [Advance Bash-Scripting Tutorial](https://tldp.org/LDP/abs/html/index.html)
 * Few of the online C++ compilers to play with some advanced settings
-  - [godbolt](godbolt.org)
-  - [Wandbox](wandbox.org)
-  - [coliru](coliru.stacked-crooked.com)
+  - [godbolt](https://godbolt.org/)
+  - [Wandbox](https://wandbox.org/)
+  - [coliru](https://coliru.stacked-crooked.com/)
+  - [Cpp sh](http://cpp.sh/)
 
 ## Physics/Particle Physics/High-Energy
 * [Physics of **LHC**](https://www.lhc-closer.es/taking_a_closer_look_at_lhc/1.home) Describes PHYSICS involve in LHC in High-School level
