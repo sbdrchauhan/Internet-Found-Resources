@@ -10,7 +10,8 @@
   - [Wandbox](https://wandbox.org/)
   - [coliru](https://coliru.stacked-crooked.com/)
   - [Cpp sh](http://cpp.sh/)
-* [Free Code Campl C++ 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=75582s) Beginners to Advanced 
+* [Free Code Camp C++ 31 hours](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=75582s) Beginners to Advanced
+* **Google Colab** can be used to run python jupyter-like notebook
 
 
 
